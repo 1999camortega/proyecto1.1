@@ -14,3 +14,5 @@ Funcionalidades
 - **Galería de imágenes**: Muestra los principales atractivos turísticos de Muzo.
 - **Páginas informativas**: Detalles sobre los lugares más importantes y la historia de la región.
 - **Diseño responsivo**: La página se adapta a diferentes tamaños de pantalla, desde dispositivos móviles hasta escritorios.
+
+- file:///C:/Users/Usuario/Downloads/PROYECTO1/index.html
